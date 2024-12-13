@@ -6,7 +6,7 @@ This project focuses on the classification of encrypted data to identify the enc
 
 ## Flow Diagram
 
-![Workflow Diagram](Workflow.PNG)
+![Workflow Diagram](1_proposed_flow.PNG)
 
 ## Procedure
   1. **Data Collection**:
